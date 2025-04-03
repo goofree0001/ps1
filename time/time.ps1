@@ -1,4 +1,5 @@
-test2
+Set-ExecutionPolicy RemoteSigned -Scope Process
+
 # ストップウォッチ
 
 # アセンブリの読み込み
