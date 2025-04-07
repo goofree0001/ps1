@@ -1,3 +1,4 @@
+test3
 Set-ExecutionPolicy RemoteSigned -Scope Process
 
 # ストップウォッチ
